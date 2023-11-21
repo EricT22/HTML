@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: navy;
+}
+
+.barcaCrest {
+    float:left;
+    margin-right: 2em;
+}
